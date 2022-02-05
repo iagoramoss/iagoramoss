@@ -5,7 +5,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iago-ramos-1267961a6/)
 
 ![Iago's GitHub stats](https://github-readme-stats.vercel.app/api?username=iagoramoss&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iagoramoss)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iagoramoss&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Languages | Linguagens
 
