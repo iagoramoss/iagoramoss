@@ -4,7 +4,7 @@
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&color=gray&logoColor=white">
 </a>
 
-<a href="https://instagram.com/iagorlima" target="_blank" rel="noopener">
+<a href="https://instagram.com/iagorlima" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
 
