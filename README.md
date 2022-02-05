@@ -10,7 +10,7 @@
 
 <a href="https://www.linkedin.com/in/iago-ramos-1267961a6/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
+</a><br><br>
 
 ![Iago's GitHub stats](https://github-readme-stats.vercel.app/api?username=iagoramoss&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?theme=tokyonight&username=iagoramoss)
