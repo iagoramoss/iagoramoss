@@ -4,8 +4,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/iagorlima)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iago-ramos-1267961a6/)
 
-[![Iago's GitHub stats](https://github-readme-stats.vercel.app/api?username=iagoramoss&show_icons=true&theme=tokyonight)](https://github.com/iagoramoss)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?theme=tokyonight&layout=compact&username=iagoramoss)](https://github.com/iagoramoss)
+[![Iago's GitHub stats](https://github-readme-stats.vercel.app/api?username=iagoramoss&show_icons=true&theme=tokyonight)](https://github.com/iagoramoss) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?theme=tokyonight&layout=compact&username=iagoramoss)](https://github.com/iagoramoss)
 
 ## Languages | Linguagens
 
