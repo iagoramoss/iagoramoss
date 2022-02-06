@@ -7,13 +7,10 @@
 <!-- [![Iago's GitHub stats](https://github-readme-stats.vercel.app/api?username=iagoramoss&show_icons=true&theme=tokyonight)](https://github.com/iagoramoss)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?theme=tokyonight&layout=compact&username=iagoramoss)](https://github.com/iagoramoss) -->
 
-<div style="float: left">
-  <a href="">
-    <img src="https://github-readme-stats.vercel.app/api?username=iagoramoss&show_icons=true&theme=tokyonight">
-  </a>
-  
+<div>
   <a href="https://github.com/iagoramoss">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?theme=tokyonight&layout=compact&username=iagoramoss">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iagoramoss&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?theme=tokyonight&layout=compact&username=iagoramoss">
   </a>
 </div>
 
