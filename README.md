@@ -4,7 +4,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/iagorlima)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/iago-ramos-1267961a6/)
 
-<div>
+<div style="display: flex; flex-direction: row;">
   <a href="https://github.com/iagoramoss">
     <img src="https://github-readme-stats.vercel.app/api?username=iagoramoss&show_icons=true&theme=tokyonight">
   </a>
